@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T02:05:27.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wLrUTcSy6ct53t2lSWm2" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T02:07:38.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="LXG4dfWBrPkzRA5X6Hjv" version="14.0.1" type="github">
   <diagram id="-c5VcKhnEjgT8fEdfMCj" name="Page-1">
     <mxGraphModel dx="870" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -512,7 +512,7 @@
         <mxCell id="mByjEvzQ0l638NXyAkC8-40" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="71.72" y="1043.5" width="35.00000000000001" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mByjEvzQ0l638NXyAkC8-41" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="mByjEvzQ0l638NXyAkC8-40" vertex="1">
+        <mxCell id="mByjEvzQ0l638NXyAkC8-41" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="mByjEvzQ0l638NXyAkC8-40" vertex="1">
           <mxGeometry width="35" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mByjEvzQ0l638NXyAkC8-42" value="&lt;b&gt;阳&lt;br&gt;台&lt;br&gt;减&lt;br&gt;压&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=1;" parent="mByjEvzQ0l638NXyAkC8-40" vertex="1">
@@ -550,7 +550,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mByjEvzQ0l638NXyAkC8-47" value="对面射灯呼吸&lt;br&gt;模式" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="mByjEvzQ0l638NXyAkC8-47" value="对面射灯呼吸&lt;br&gt;模式" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="191.19000000000003" y="1101.5" width="95.53" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mByjEvzQ0l638NXyAkC8-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mByjEvzQ0l638NXyAkC8-48" target="mByjEvzQ0l638NXyAkC8-49" edge="1">
@@ -559,7 +559,7 @@
         <mxCell id="mByjEvzQ0l638NXyAkC8-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="289.36" y="1061.5" width="20" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="mByjEvzQ0l638NXyAkC8-49" value="阳台灯全熄灭&lt;br&gt;带入沉思状态。。。" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;" parent="1" vertex="1">
+        <mxCell id="mByjEvzQ0l638NXyAkC8-49" value="阳台灯全熄灭&lt;br&gt;带入沉思状态。。。" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="339.36" y="1064.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mByjEvzQ0l638NXyAkC8-51" value="30s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -925,13 +925,16 @@
           <mxGeometry x="920" y="1740" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="svGXe5a89f3N2dMGBmbG-34" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="780" y="1783" width="35.00000000000001" height="80" as="geometry" />
+          <mxGeometry x="780" y="1783" width="245" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="svGXe5a89f3N2dMGBmbG-35" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="svGXe5a89f3N2dMGBmbG-34" vertex="1">
+        <mxCell id="svGXe5a89f3N2dMGBmbG-35" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="svGXe5a89f3N2dMGBmbG-34" vertex="1">
           <mxGeometry y="-3" width="35" height="80" as="geometry" />
         </mxCell>
         <mxCell id="svGXe5a89f3N2dMGBmbG-36" value="&lt;b&gt;穿&lt;br&gt;搭&lt;br&gt;场&lt;br&gt;景&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=1;" parent="svGXe5a89f3N2dMGBmbG-34" vertex="1">
           <mxGeometry x="2.5" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jDPxIpXczq4Ryd0qxlV-73" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;衣柜内射灯、灯带&lt;br&gt;亮起&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="svGXe5a89f3N2dMGBmbG-34">
+          <mxGeometry x="140" y="-43" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="svGXe5a89f3N2dMGBmbG-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="svGXe5a89f3N2dMGBmbG-35" target="svGXe5a89f3N2dMGBmbG-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -952,7 +955,7 @@
         <mxCell id="svGXe5a89f3N2dMGBmbG-39" value="门磁模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="818.64" y="1817.5" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="svGXe5a89f3N2dMGBmbG-42" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;衣柜内所有灯熄灭&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="svGXe5a89f3N2dMGBmbG-42" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;衣柜内所有灯熄灭&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="925.5" y="1826.5" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="svGXe5a89f3N2dMGBmbG-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=1;exitX=1.083;exitY=0.458;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="svGXe5a89f3N2dMGBmbG-36" target="svGXe5a89f3N2dMGBmbG-42" edge="1">
@@ -975,13 +978,13 @@
         <mxCell id="svGXe5a89f3N2dMGBmbG-45" value="关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="891" y="1843.5" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="svGXe5a89f3N2dMGBmbG-47" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;卧室其他灯全关&lt;br&gt;梳妆台射灯暖色中性高亮&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="svGXe5a89f3N2dMGBmbG-47" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;卧室其他灯全关&lt;br&gt;梳妆台射灯暖色中性高亮&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1746.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="svGXe5a89f3N2dMGBmbG-48" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1080" y="1789.5" width="35.00000000000001" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="svGXe5a89f3N2dMGBmbG-49" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="svGXe5a89f3N2dMGBmbG-48" vertex="1">
+        <mxCell id="svGXe5a89f3N2dMGBmbG-49" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="svGXe5a89f3N2dMGBmbG-48" vertex="1">
           <mxGeometry y="-3" width="35" height="80" as="geometry" />
         </mxCell>
         <mxCell id="svGXe5a89f3N2dMGBmbG-50" value="&lt;b&gt;梳&lt;br&gt;妆&lt;br&gt;场&lt;br&gt;景&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=1;" parent="svGXe5a89f3N2dMGBmbG-48" vertex="1">
@@ -1006,7 +1009,7 @@
         <mxCell id="svGXe5a89f3N2dMGBmbG-53" value="动静贴" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1123.6399999999999" y="1824" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="svGXe5a89f3N2dMGBmbG-54" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;梳妆台射灯熄灭&lt;br&gt;天花板灯带亮&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="svGXe5a89f3N2dMGBmbG-54" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;梳妆台射灯熄灭&lt;br&gt;天花板灯带亮&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1225.5" y="1833" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="svGXe5a89f3N2dMGBmbG-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=1;exitX=1.083;exitY=0.458;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="svGXe5a89f3N2dMGBmbG-50" target="svGXe5a89f3N2dMGBmbG-54" edge="1">
@@ -1504,6 +1507,9 @@
         </mxCell>
         <mxCell id="8jDPxIpXczq4Ryd0qxlV-72" value="&lt;font color=&quot;#000000&quot;&gt;2020.12.10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B3FF66;" vertex="1" parent="1">
           <mxGeometry x="568.49" y="2003" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8jDPxIpXczq4Ryd0qxlV-74" value="头顶射灯点亮" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="194.72" y="1043.5" width="94.64" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
