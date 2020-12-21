@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T02:07:25.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3Wi2esFUK8pA5NQEEibw" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T02:07:48.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="uqLBU3Jc0kTWTruED080" version="14.0.4" type="github">
   <diagram id="uhIIpTgkbpbARF-qf-MV" name="Page-1">
-    <mxGraphModel dx="1609" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry x="336.5" y="674.5" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jehkjZumPrXeM_6pErTO-1" value="Aqar卖点及场景：&lt;span style=&quot;font-weight: normal&quot;&gt;任何商品的卖点，都来自于商品在市场上的应用需求。这是一个刚性需求。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-175" y="1160" width="510" height="20" as="geometry" />
+          <mxGeometry x="60" y="1160" width="510" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jehkjZumPrXeM_6pErTO-2" value="需求衍生" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="288" width="80" height="22" as="geometry" />
