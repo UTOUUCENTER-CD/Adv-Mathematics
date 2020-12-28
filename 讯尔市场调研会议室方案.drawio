@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T06:41:41.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8FdSDVWNxOAxqjPQLo5Y" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T06:46:47.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-E3tefO7TnwRHij7xIfj" version="14.1.2" type="github">
   <diagram id="21dkpIUv8Dz8cheK0tkw" name="Page-1">
     <mxGraphModel dx="1849" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -421,10 +421,10 @@
         <mxCell id="Ukg85vJx6AmNJHNjjrwK-22" value="MAC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-454" y="698" width="240" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Ukg85vJx6AmNJHNjjrwK-23" value="数据链路层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ukg85vJx6AmNJHNjjrwK-23" value="DLL(Data Link Layer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-455" y="640" width="240" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Ukg85vJx6AmNJHNjjrwK-24" value="网络层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ukg85vJx6AmNJHNjjrwK-24" value="NWK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-455" y="583" width="240" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Ukg85vJx6AmNJHNjjrwK-25" value="应用接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
