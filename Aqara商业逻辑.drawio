@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T02:07:48.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="uqLBU3Jc0kTWTruED080" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T03:30:11.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EHGn8Dl0dQDIh9cWUodF" version="14.1.2" type="github">
   <diagram id="uhIIpTgkbpbARF-qf-MV" name="Page-1">
     <mxGraphModel dx="782" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -364,22 +364,22 @@
             <mxPoint x="460" y="442" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-1" value="&lt;b&gt;商业门店对智能终端设备的需求分析：&lt;/b&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;现有的商业门店，使用的是传统的系统集成，实现其自身的需求。比如：" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-1" value="&lt;b&gt;商业门店对智能终端设备的需求分析：&lt;/b&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;现有的商业门店，使用的是传统的系统集成，实现其自身的需求。比如：" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="47.5" y="775" width="430" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-3" value="收银系统+进销存系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-3" value="收银系统+进销存系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="883" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-4" value="&lt;b&gt;商业门店&lt;br&gt;（传统的系统集成）&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-4" value="&lt;b&gt;商业门店&lt;br&gt;（传统的系统集成）&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="878" width="117.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-6" value="门店销售" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-6" value="门店销售" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="840" width="85" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-7" value="门店管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-7" value="门店管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="930" width="85" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAWpPp4pkEokRluKZSZQ-4" target="YAWpPp4pkEokRluKZSZQ-6">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YAWpPp4pkEokRluKZSZQ-4" target="YAWpPp4pkEokRluKZSZQ-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-60" y="725" as="sourcePoint" />
             <mxPoint x="115" y="660" as="targetPoint" />
@@ -390,7 +390,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAWpPp4pkEokRluKZSZQ-4" target="YAWpPp4pkEokRluKZSZQ-7">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YAWpPp4pkEokRluKZSZQ-4" target="YAWpPp4pkEokRluKZSZQ-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="917.5" as="sourcePoint" />
             <mxPoint x="230" y="869" as="targetPoint" />
@@ -401,7 +401,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAWpPp4pkEokRluKZSZQ-6" target="YAWpPp4pkEokRluKZSZQ-3">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YAWpPp4pkEokRluKZSZQ-6" target="YAWpPp4pkEokRluKZSZQ-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="927.5" as="sourcePoint" />
             <mxPoint x="240" y="879" as="targetPoint" />
@@ -412,7 +412,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAWpPp4pkEokRluKZSZQ-7" target="YAWpPp4pkEokRluKZSZQ-3">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YAWpPp4pkEokRluKZSZQ-7" target="YAWpPp4pkEokRluKZSZQ-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="937.5" as="sourcePoint" />
             <mxPoint x="250" y="889" as="targetPoint" />
@@ -424,13 +424,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-14" value="单一的网络摄像头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-14" value="单一的网络摄像头" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="944" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-15" value="收银系统+进销存系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-15" value="收银系统+进销存系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="937" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAWpPp4pkEokRluKZSZQ-7" target="YAWpPp4pkEokRluKZSZQ-15">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YAWpPp4pkEokRluKZSZQ-7" target="YAWpPp4pkEokRluKZSZQ-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="167.5" y="913" as="sourcePoint" />
             <mxPoint x="230" y="959" as="targetPoint" />
@@ -441,7 +441,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAWpPp4pkEokRluKZSZQ-15" target="YAWpPp4pkEokRluKZSZQ-14">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YAWpPp4pkEokRluKZSZQ-15" target="YAWpPp4pkEokRluKZSZQ-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="957" as="sourcePoint" />
             <mxPoint x="240" y="969" as="targetPoint" />
@@ -452,7 +452,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAWpPp4pkEokRluKZSZQ-18" value="现在随着支付场景的变化，延伸出门店的哪些新的需求呢？&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ①、收银系统与支付宝、微信的绑定，普遍存在的是扫码：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 在二维码上有没有新的需求呢（收款溯源跟踪、资金自动统计）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ②、安防系统，单一的摄像头是实现一个门店的防盗、防暴力、争取采集。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 对防损就完全做不到。防损里面包含：生意忙碌的情况下漏收款、客户的抱怨、财物（客人及店面的）遗失。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 生意不好的时候，店面的损耗主要来自（商品过期、变质；&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 固定开支（水、电、气、房租、人员薪资）的浪费（如何做到节流）。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="YAWpPp4pkEokRluKZSZQ-18" value="现在随着支付场景的变化，延伸出门店的哪些新的需求呢？&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ①、收银系统与支付宝、微信的绑定，普遍存在的是扫码：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 在二维码上有没有新的需求呢（收款溯源跟踪、资金自动统计）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ②、安防系统，单一的摄像头是实现一个门店的防盗、防暴力、争取采集。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 对防损就完全做不到。防损里面包含：生意忙碌的情况下漏收款、客户的抱怨、财物（客人及店面的）遗失。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 生意不好的时候，店面的损耗主要来自（商品过期、变质；&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 固定开支（水、电、气、房租、人员薪资）的浪费（如何做到节流）。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="29" y="980" width="860" height="100" as="geometry" />
         </mxCell>
       </root>
