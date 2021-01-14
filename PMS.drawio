@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T08:51:58.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="_Jq_38GhKh80eNA4FcfJ" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T09:19:41.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="-TwSi4ESV2FRU0cfBRXg" version="14.1.8" type="github">
   <diagram id="fw4ruGMlTZsnvlMs3-AR" name="Page-1">
-    <mxGraphModel dx="782" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -443,6 +443,57 @@
         </mxCell>
         <mxCell id="By0YEaYFTy8LtGrnLWI1-109" value="&lt;span&gt;收费系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="1060" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-111" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="990" width="700" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-112" value="酒店建筑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1060" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="990" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-115" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-116" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-118" value="IT设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="1075" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-120" value="照明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1303" y="1060" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-121" value="基础设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1085" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-123" value="呼叫" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1060" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1060" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-119" value="智能设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="1075" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-127" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-122" value="网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1060" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-128" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1060" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By0YEaYFTy8LtGrnLWI1-124" value="保洁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1060" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
