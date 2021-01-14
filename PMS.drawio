@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T14:03:38.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="hfs8k1SgqdxqzvzHs5K6" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T14:35:39.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ypko3duWVytqGXWCVpRW" version="14.1.9" type="github">
   <diagram id="fw4ruGMlTZsnvlMs3-AR" name="Page-1">
     <mxGraphModel dx="516" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -683,6 +683,63 @@
         </mxCell>
         <mxCell id="exmaIckdpVQEYwJ5Evv2-57" value="年报表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1500" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="980" y="340" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-59" value="显示的页面A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="980" y="340" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-61" value="显示的页面B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="340" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-62" value="云端服务器：&lt;b&gt;鉴权、授权&lt;br&gt;应该显示的内容&lt;br&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="180" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-63" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="980" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-64" value="客人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-65" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="exmaIckdpVQEYwJ5Evv2-64" target="exmaIckdpVQEYwJ5Evv2-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="340" as="sourcePoint" />
+            <mxPoint x="1300" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-66" value="登录：token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="285" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-67" value="" style="endArrow=classic;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="exmaIckdpVQEYwJ5Evv2-62" target="exmaIckdpVQEYwJ5Evv2-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1275" y="350" as="sourcePoint" />
+            <mxPoint x="1271.6" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-68" value="返&lt;br&gt;回&lt;br&gt;数&lt;br&gt;据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="265" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-70" value="" style="endArrow=classic;html=1;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="exmaIckdpVQEYwJ5Evv2-63" target="exmaIckdpVQEYwJ5Evv2-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1275" y="350" as="sourcePoint" />
+            <mxPoint x="1271.6" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-71" value="&lt;b&gt;沙箱&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="340" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-72" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="exmaIckdpVQEYwJ5Evv2-62" target="exmaIckdpVQEYwJ5Evv2-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070.1486486486485" y="350" as="sourcePoint" />
+            <mxPoint x="1135.1" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-73" value="登录：token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="285" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="exmaIckdpVQEYwJ5Evv2-74" value="返&lt;br&gt;回&lt;br&gt;数&lt;br&gt;据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="250" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
