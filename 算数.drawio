@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T13:58:54.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="ENvomsth_q-cFxNJwYB3" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-05T13:55:32.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="NJdNYAi_tSk6hgA90CP_" version="14.6.9" type="github">
   <diagram id="RAytsHk9yZWYYMR1CLl6" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cfBZWCp-nfRq4XjDMekp-7" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="120" y="190" width="180" height="30" as="geometry" />
+          <mxGeometry x="50" y="170" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="cfBZWCp-nfRq4XjDMekp-7" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-8" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="120" y="220" width="180" height="30" as="geometry" />
+          <mxGeometry x="50" y="200" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="cfBZWCp-nfRq4XjDMekp-8" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-15" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="120" y="250" width="180" height="30" as="geometry" />
+          <mxGeometry x="50" y="230" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="cfBZWCp-nfRq4XjDMekp-15" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-22" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="120" y="280" width="180" height="30" as="geometry" />
+          <mxGeometry x="50" y="260" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="cfBZWCp-nfRq4XjDMekp-22" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-29" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="120" y="310" width="180" height="30" as="geometry" />
+          <mxGeometry x="50" y="290" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-30" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="cfBZWCp-nfRq4XjDMekp-29" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-37" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="120" y="340" width="180" height="30" as="geometry" />
+          <mxGeometry x="50" y="320" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="cfBZWCp-nfRq4XjDMekp-37" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
@@ -131,22 +131,34 @@
           <mxGeometry x="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-45" value="如上图，有多少个正方形？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="380" width="160" height="20" as="geometry" />
+          <mxGeometry x="60" y="360" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-46" value="6 × 6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="470" width="40" height="20" as="geometry" />
+          <mxGeometry x="30" y="390" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-47" value="+ 3 × 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="470" width="50" height="20" as="geometry" />
+          <mxGeometry x="150" y="390" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-48" value="&amp;nbsp;+ 2 × 2 + 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="470" width="80" height="20" as="geometry" />
+          <mxGeometry x="190" y="390" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-49" value="&amp;nbsp;+ 5 × 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="134" y="470" width="60" height="20" as="geometry" />
+          <mxGeometry x="54" y="390" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cfBZWCp-nfRq4XjDMekp-50" value="+ 4 × 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="470" width="50" height="20" as="geometry" />
+          <mxGeometry x="105" y="390" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYrG96fUX7nSHpN4_MA_-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="yYrG96fUX7nSHpN4_MA_-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="580" y="27.5" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="yYrG96fUX7nSHpN4_MA_-3" value="求证三角形的稳定性？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYrG96fUX7nSHpN4_MA_-4" value="&lt;font&gt;&lt;font&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;∵&amp;nbsp;&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;三角形由三个顶点组成，三个点决定一个面，且该面上由任意一个点引力&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;均出现力的唯一矢量性（垂直于底边）。&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;四边形由四个点组成一个面，但是取任意一个点都有可能脱离该平面。形变不仅仅在一个平面，&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;还出现在空间上。从四个点上任意一点引力，均出找不到可承受边固定底边。&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;∴&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;力的矢量性，当被面固定以后，线的张力（同样存在矢量性）作用能够形成相互作用的抗衡。&lt;br&gt;&lt;/span&gt;稳定性的含义是：如果在力的作用下，能够存在静置，那么一定具有力的相互作用&lt;br&gt;相互作用之后，在相互作用力之间有且仅有出现中心点为零的状态。才叫静置或稳定&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="257" y="220" width="570" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
