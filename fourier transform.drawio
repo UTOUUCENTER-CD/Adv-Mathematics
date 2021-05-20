@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T03:17:04.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.13" etag="3_Jo01uyhaBQxNN-488M" type="github"><diagram id="Oi3tkk-SmlR6K_OgVrXT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-20T03:21:24.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RWeh1E18ajGYrDm5KCqx" version="14.6.13" type="github">
+  <diagram id="Oi3tkk-SmlR6K_OgVrXT" name="Page-1">
+    <mxGraphModel dx="683" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-2" value="信号成分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=0.989;exitY=0.439;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="J55Aro6kdoUVj8-WrOP0-2" target="J55Aro6kdoUVj8-WrOP0-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="20" as="sourcePoint" />
+            <mxPoint x="130" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-4" value="分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-5" value="合成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;" edge="1" parent="1" source="J55Aro6kdoUVj8-WrOP0-2" target="J55Aro6kdoUVj8-WrOP0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.34000000000003" y="118.77999999999997" as="sourcePoint" />
+            <mxPoint x="210" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="sourcePoint" />
+            <mxPoint x="360" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-8" value="它们都是一种方法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-9" value="傅里叶变换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0.992;entryY=1.272;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="J55Aro6kdoUVj8-WrOP0-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="135" as="sourcePoint" />
+            <mxPoint x="220" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-11" value="算法中的一种：&lt;br&gt;傅里叶变换算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
