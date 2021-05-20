@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T04:15:55.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ciwXbXJlp16f9JF6-AdL" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T04:27:59.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cEknjAlbz8EmcLRmoQ6I" version="14.6.13" type="github">
   <diagram id="Oi3tkk-SmlR6K_OgVrXT" name="Page-1">
-    <mxGraphModel dx="683" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1752" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="440" y="120" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J55Aro6kdoUVj8-WrOP0-12" value="信号的表现形式：具有线性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="190" width="160" height="20" as="geometry" />
+          <mxGeometry x="60" y="500" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J55Aro6kdoUVj8-WrOP0-13" value="时域：描述一个数学函数或物理信号对时间的关系" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="280" height="20" as="geometry" />
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="J55Aro6kdoUVj8-WrOP0-21" value="声谱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-22" value="&lt;pre style=&quot;margin-top: 0px ; margin-bottom: 0px ; padding: 0.88889em ; font-size: medium ; word-break: normal ; overflow-wrap: normal ; overflow: auto ; background: rgb(246 , 246 , 246) ; border-radius: 4px ; color: rgb(18 , 18 , 18)&quot;&gt;&lt;code class=&quot;language-text&quot; style=&quot;margin: 0px ; padding: 0px ; border-radius: 0px ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;andale mono&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: inherit ; background-color: inherit&quot;&gt;\begin{displaymath} &lt;br&gt;S_{n+1} = S_{n} + S_{n},  &lt;br&gt;S_{n}=1=2^{n} &lt;br&gt;\end{displaymath}&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="550" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
