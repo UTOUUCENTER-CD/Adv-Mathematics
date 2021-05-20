@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T03:21:24.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RWeh1E18ajGYrDm5KCqx" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T04:15:55.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ciwXbXJlp16f9JF6-AdL" version="14.6.13" type="github">
   <diagram id="Oi3tkk-SmlR6K_OgVrXT" name="Page-1">
     <mxGraphModel dx="683" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,6 +45,42 @@
         </mxCell>
         <mxCell id="J55Aro6kdoUVj8-WrOP0-11" value="算法中的一种：&lt;br&gt;傅里叶变换算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-12" value="信号的表现形式：具有线性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-13" value="时域：描述一个数学函数或物理信号对时间的关系" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-14" value="速度：单位时间内发生的位移。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-15" value="电流：单位时间里通过导体横切面的电量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="346" y="230" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-16" value="功率：单位时间里物体所做的功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=-0.004;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J55Aro6kdoUVj8-WrOP0-13" target="J55Aro6kdoUVj8-WrOP0-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="120" as="sourcePoint" />
+            <mxPoint x="210" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=-0.01;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J55Aro6kdoUVj8-WrOP0-13" target="J55Aro6kdoUVj8-WrOP0-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="250" as="sourcePoint" />
+            <mxPoint x="360.53999999999996" y="213.22000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-19" value="在现实环境中，容易直观理解的表现形式，并不一定是最方便计算的，这个时候，我们需要进行一种变换，&lt;br&gt;将在原来空间中难以处理的问题变换到方便计算的空间中去。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-20" value="R、G、B色谱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J55Aro6kdoUVj8-WrOP0-21" value="声谱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
