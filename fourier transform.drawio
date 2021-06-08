@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T03:05:19.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="W4loEUUZzR7I1f7Z8iKo" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T08:14:03.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="tRo8qfvg_sZvSCIuzeM_" version="14.7.6" type="github">
   <diagram id="Oi3tkk-SmlR6K_OgVrXT" name="Page-1">
-    <mxGraphModel dx="1593" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2475" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,19 +155,19 @@
           <mxGeometry x="-480" y="410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU_1oUAZhzgOvJBxR1my-9" value="组织结构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-727" y="610" width="360" height="40" as="geometry" />
+          <mxGeometry x="-750" y="520" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU_1oUAZhzgOvJBxR1my-10" value="角色职责" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-727" y="650" width="90" height="40" as="geometry" />
+          <mxGeometry x="-750" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU_1oUAZhzgOvJBxR1my-11" value="绩效考核" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-637" y="650" width="90" height="40" as="geometry" />
+          <mxGeometry x="-660" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU_1oUAZhzgOvJBxR1my-12" value="绩效考核" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-547" y="650" width="90" height="40" as="geometry" />
+          <mxGeometry x="-570" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU_1oUAZhzgOvJBxR1my-13" value="绩效考核" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-457" y="650" width="90" height="40" as="geometry" />
+          <mxGeometry x="-480" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eU_1oUAZhzgOvJBxR1my-14" value="研发团队资源线建设：&lt;br&gt;其目的是推动技术能力，探索和拓展未知领域实现的技术迭代或技术能力。&lt;br&gt;&lt;br&gt;从管理的角度来说，整个研发类的资源线的技术流向应该是“挤牙膏”似的逐渐向下渗透一定level的技术资源&lt;br&gt;（目的是不至于出现重复劳动，让下一level的能够具有学习的动力、成长的机会）&lt;br&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-740" y="260" width="580" height="90" as="geometry" />
