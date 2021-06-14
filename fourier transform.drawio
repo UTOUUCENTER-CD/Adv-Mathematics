@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T06:49:42.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="RiNMaFv4rGgOH0_-FHUC" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-14T07:18:43.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="VYgvJM61t-_I5trW4Rvd" version="14.7.7" type="github">
   <diagram id="Oi3tkk-SmlR6K_OgVrXT" name="Page-1">
     <mxGraphModel dx="2235" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -245,31 +245,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fr9CN2CGbVfwiA0usbwq-1" value="Aqara智能家居设备" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-317" y="1400" width="120" height="40" as="geometry" />
+          <mxGeometry x="-317" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fr9CN2CGbVfwiA0usbwq-2" value="人们的生活所需" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-317" y="1490" width="120" height="40" as="geometry" />
+          <mxGeometry x="-317" y="1525" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fr9CN2CGbVfwiA0usbwq-4" value="设备所具备的功能：解决现实生活中的需求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="-367" y="1450" width="240" height="20" as="geometry" />
+          <mxGeometry x="-367" y="1454" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fr9CN2CGbVfwiA0usbwq-5" value="花钱买设备" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1530" width="120" height="40" as="geometry" />
+          <mxGeometry x="-10" y="1565" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fr9CN2CGbVfwiA0usbwq-6" value="花钱雇保姆" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1450" width="120" height="40" as="geometry" />
+          <mxGeometry x="-10" y="1493" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Fr9CN2CGbVfwiA0usbwq-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fr9CN2CGbVfwiA0usbwq-2" target="Fr9CN2CGbVfwiA0usbwq-6">
+        <mxCell id="Fr9CN2CGbVfwiA0usbwq-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fr9CN2CGbVfwiA0usbwq-2" target="Fr9CN2CGbVfwiA0usbwq-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-170" y="1640" as="sourcePoint" />
             <mxPoint x="-120" y="1590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-40" y="1470" />
+              <mxPoint x="-40" y="1540" />
               <mxPoint x="-50" y="1470" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fr9CN2CGbVfwiA0usbwq-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fr9CN2CGbVfwiA0usbwq-2" target="Fr9CN2CGbVfwiA0usbwq-5">
+        <mxCell id="Fr9CN2CGbVfwiA0usbwq-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="Fr9CN2CGbVfwiA0usbwq-9" target="Fr9CN2CGbVfwiA0usbwq-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-140" y="1550" as="sourcePoint" />
             <mxPoint x="-60" y="1480" as="targetPoint" />
@@ -278,11 +278,45 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fr9CN2CGbVfwiA0usbwq-9" value="人们解决需求的方式：&lt;br&gt;都是以消费的形式来交换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1495" width="150" height="30" as="geometry" />
+        <mxCell id="Fr9CN2CGbVfwiA0usbwq-10" value="都&lt;br&gt;具&lt;br&gt;备&lt;br&gt;不&lt;br&gt;一&lt;br&gt;样&lt;br&gt;的&lt;br&gt;价&lt;br&gt;格" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1340" width="40" height="265" as="geometry" />
         </mxCell>
-        <mxCell id="Fr9CN2CGbVfwiA0usbwq-10" value="都&lt;br&gt;具&lt;br&gt;备&lt;br&gt;不&lt;br&gt;一&lt;br&gt;样&lt;br&gt;的&lt;br&gt;价&lt;br&gt;格" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1440" width="50" height="140" as="geometry" />
+        <mxCell id="Fr9CN2CGbVfwiA0usbwq-12" value="T1/H1" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fr9CN2CGbVfwiA0usbwq-13" value="E1/D1" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fr9CN2CGbVfwiA0usbwq-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fr9CN2CGbVfwiA0usbwq-1" target="Fr9CN2CGbVfwiA0usbwq-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="1360" as="sourcePoint" />
+            <mxPoint x="-170" y="1310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fr9CN2CGbVfwiA0usbwq-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fr9CN2CGbVfwiA0usbwq-1" target="Fr9CN2CGbVfwiA0usbwq-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-187" y="1430" as="sourcePoint" />
+            <mxPoint x="-140" y="1360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fr9CN2CGbVfwiA0usbwq-16" value="除了功能不一样&lt;br&gt;还有材料、及固件的不一样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1385" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fr9CN2CGbVfwiA0usbwq-9" value="人们解决需求的方式：&lt;br&gt;都是以消费的形式来交换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-197" y="1530" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fr9CN2CGbVfwiA0usbwq-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fr9CN2CGbVfwiA0usbwq-2" target="Fr9CN2CGbVfwiA0usbwq-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-197" y="1545" as="sourcePoint" />
+            <mxPoint x="-10" y="1585" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
