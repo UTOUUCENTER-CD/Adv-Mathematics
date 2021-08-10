@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T04:06:18.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" version="14.9.5" etag="8rsLXD0UeN2I_ZLAM7Ql" type="github"><diagram id="l7Ko_PinxQo50UgZ7-K5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-10T04:09:47.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="d_2Uh4MjjnVHR0tPZEU_" version="14.9.5" type="github">
+  <diagram id="l7Ko_PinxQo50UgZ7-K5" name="Page-1">
+    <mxGraphModel dx="436" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cFST7dc2pD31edWH3BOT-1" value="全国149市人口减少" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cFST7dc2pD31edWH3BOT-2" value="23个省份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cFST7dc2pD31edWH3BOT-3" value="东部地区14个" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cFST7dc2pD31edWH3BOT-4" value="中部地区47个" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cFST7dc2pD31edWH3BOT-5" value="西部地区55个" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cFST7dc2pD31edWH3BOT-6" value="东北地区33个" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
