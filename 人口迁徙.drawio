@@ -1,26 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T09:25:28.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="jM1-ZCKrZbAkHmmjhREf" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-11T02:20:27.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="nT8hXKJYElp63LjK7poS" version="14.9.5" type="github">
   <diagram id="l7Ko_PinxQo50UgZ7-K5" name="Page-1">
-    <mxGraphModel dx="436" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="685" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cFST7dc2pD31edWH3BOT-1" value="全国149市人口减少" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="150" width="440" height="40" as="geometry" />
+        <mxCell id="cFST7dc2pD31edWH3BOT-1" value="全国149市人口减少" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="80" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cFST7dc2pD31edWH3BOT-2" value="分列到各区域中的23个省份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="190" width="440" height="30" as="geometry" />
+        <mxCell id="cFST7dc2pD31edWH3BOT-2" value="分列到各区域中的23个省份" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="120" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cFST7dc2pD31edWH3BOT-3" value="东部地区14个" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220" width="110" height="30" as="geometry" />
+        <mxCell id="cFST7dc2pD31edWH3BOT-3" value="东部地区14个" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cFST7dc2pD31edWH3BOT-4" value="中部地区47个" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="220" width="110" height="30" as="geometry" />
+        <mxCell id="cFST7dc2pD31edWH3BOT-4" value="中部地区47个" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cFST7dc2pD31edWH3BOT-5" value="西部地区55个" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="220" width="110" height="30" as="geometry" />
+        <mxCell id="cFST7dc2pD31edWH3BOT-5" value="西部地区55个" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cFST7dc2pD31edWH3BOT-6" value="东北地区33个" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="220" width="110" height="30" as="geometry" />
+        <mxCell id="cFST7dc2pD31edWH3BOT-6" value="东北地区33个" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VBDfhCNgzuD13jIUxgFp-1" value="第七次人口普查数据：成都从2010年到2020年人口增长数：58万。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="370" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
