@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T06:18:04.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="50ACxkR_MoemTtixnC0S" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T06:19:00.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="akDraJ64oODNjKAAVJea" version="15.0.3" type="github">
   <diagram id="d_5k1kWVG2uN-BUGGns2" name="Page-1">
     <mxGraphModel dx="3526" dy="5480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -10,17 +10,17 @@
         <mxCell id="XpAMmcvzi6uvPsPUBMay-2" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 15px ; text-align: left ; line-height: 17.1px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;$$&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 15px ; text-align: left ; line-height: 17.1px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;\left&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;\begin{array}{l}&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 15px ; text-align: left ; line-height: 17.1px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;frac{a+b+c+d+e}{5} = 90——&amp;gt;(a+b+c+d+e) = 450\\&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 15px ; text-align: left ; line-height: 17.1px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;\frac{a+b}{2} = 95——&amp;gt;(a+b) = 190\\&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 15px ; text-align: left ; line-height: 17.1px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;\frac{d+e}{2} = 84——&amp;gt;(d+e) = 168&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 15px ; text-align: left ; line-height: 17.1px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;\end{array}&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;\right\}&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;=190+c+168=450——&amp;gt;c=450-358=92&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 15px ; text-align: left ; line-height: 17.1px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;$$&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1620" y="-3500" width="410" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="UuBqnoOHxb3F7OV0TX7f-5" value="&lt;span&gt;每日时间段划分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="-4590" width="240" height="30" as="geometry" />
+        <mxCell id="UuBqnoOHxb3F7OV0TX7f-5" value="&lt;span&gt;每日时间段划分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-4640" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UuBqnoOHxb3F7OV0TX7f-6" value="&lt;span&gt;时间段内固定的行为&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="-4560" width="120" height="30" as="geometry" />
+        <mxCell id="UuBqnoOHxb3F7OV0TX7f-6" value="&lt;span&gt;时间段内固定的行为&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-4610" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UuBqnoOHxb3F7OV0TX7f-7" value="&lt;span&gt;时间段内固定的行为&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="-4560" width="120" height="30" as="geometry" />
+        <mxCell id="UuBqnoOHxb3F7OV0TX7f-7" value="&lt;span&gt;时间段内固定的行为&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="-4610" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UuBqnoOHxb3F7OV0TX7f-8" value="&lt;span&gt;Docker在日常生活中的应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="-4530" width="240" height="30" as="geometry" />
+        <mxCell id="UuBqnoOHxb3F7OV0TX7f-8" value="&lt;span&gt;Docker在日常生活中的应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-4580" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
