@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T06:50:20.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="iGCp6HEA45Rt77FG1uu2" version="15.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T06:13:38.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="8Ym5cNt0vjAA0MNS1-bl" version="15.4.3" type="github">
   <diagram id="xPKR4j3LUY5ekQFR6ZTb" name="Page-1">
-    <mxGraphModel dx="985" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,8 +49,74 @@
         <mxCell id="28J_IA7uR39CtnAOJng8-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;户外具体组网方式：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="77" y="441" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TXbBVv3ZFv519sfqJ90E-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;景区自动航拍技术方案：&lt;/b&gt;&lt;/div&gt;&lt;font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 首先要解决的是无人机飞行脱离操控器，所有飞行模式都启用自编程模式，导入模式程序块，实现方案快速布局。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;解决无人机与传感器之间的距离，定距离实现飞行模式&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TXbBVv3ZFv519sfqJ90E-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;景区自动航拍技术方案：&lt;/b&gt;&lt;/div&gt;&lt;font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 首先要解决的是无人机飞行脱离操控器，所有飞行模式都启用自编程模式，导入模式程序块，实现方案快速布局。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;解决无人机与传感器之间的距离，定距离实现飞行模式&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="1285" width="660" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-1" value="&lt;b&gt;景区营销方案：&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;景区在节假日吸引外地游客的方法是：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;1、景区原始的自然风光并不是主要的，最为主要的还是需要具有当地的独居特色的文化沉淀。比拼硬件装潢是一个无底洞。&lt;br&gt;要有四两拨千斤的巧夺，就需要在景区沉淀文化。&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;2、针对印江的文化除了不可比的书法绘画之外，还可以拓展体育、音乐、视频拍摄与制作。下面一项项的说：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ①、利用政府关系，打通学校教育行业，平时可在景区内举办书法、绘画、比赛。景区出售这类专业用具（用于盈利目的）。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ②、给爱好体育、音乐的年轻人提供环境，成熟以后也是可以组织比赛的。同样把体育用品、音乐外围乐器当商品出售（也是盈利的块）。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ③、除了涉及到的实际内容的商品以外，还有可口的餐饮。歌舞厅、酒吧、水吧（不仅是提供给音乐人的场地，也是提供给组织活动的场地）。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ④、视频拍摄制作，一方面可以借助爱好者拍摄的作品给景区做宣传，也能发掘出具有能力的人给景区节假日里给游客拍摄旅游视频作品当作&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;商品出售给游客的机会。&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;3、还是以前说的那个话，想办法把城区跟景区的公交线路整起来，按照实际情况运营公交线路，成熟以后，还可以把公交线路运营在其他线路上。&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;4、后面再在景区做部分的民宿（小资型的）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 5、提供年轻人的创业环境，这个需要引入能做项目运营的人。创业环境包括硬件环境，更多的是提供（财务、法务、项目运营、软件开发。。。）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7" y="1345" width="820" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-2" value="以美女峰景区为目标场所，去给景区沉淀印江独有的文化以及能起到真正培养人才的场所" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1630" width="720" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-3" value="文体类" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-4" value="音乐类" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-5" value="视频拍摄制作" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-6" value="创业孵化器" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-7" value="餐饮" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-8" value="美女峰景区" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1676" width="720" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-9" value="餐厅" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1550" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-10" value="酒水吧" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1550" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-12" value="办公场地" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1550" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-13" value="财务、法务、运营等" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1550" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-14" value="摄影器材&lt;br&gt;商品店" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1550" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-15" value="景区风景及娱乐项" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1550" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-16" value="&lt;font style=&quot;font-size: 10px&quot;&gt;具有演出功能的&lt;br&gt;酒水吧&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1550" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-17" value="对应乐器&lt;br&gt;商品店" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1550" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-18" value="竞技&lt;br&gt;场" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1550" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-19" value="商场" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="90.5" y="1550" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-20" value="教练" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130.5" y="1550" width="39.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-21" value="公交线路" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-22" value="景区公交" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1550" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-23" value="县城周边公交" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1550" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
