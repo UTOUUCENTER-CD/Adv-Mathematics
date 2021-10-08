@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T07:00:13.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="raYq2b0-BpBUF93_OHN4" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T07:19:48.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="PiKeQz7V7XTXBe48YkAG" version="15.4.1" type="github">
   <diagram id="xPKR4j3LUY5ekQFR6ZTb" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,8 +118,8 @@
         <mxCell id="Fi8xy_tX2fGVeBJwdB6Y-23" value="县城周边公交" style="rounded=0;whiteSpace=wrap;html=1;align=center;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="710" y="1905" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g5QRJJChowbCZhrj0L3K-1" value="&lt;b&gt;景区智能民宿的可行性：&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;	&lt;/span&gt;景区智能名宿，是指把民宿室内环境、设备的控制通过非传统的人为行为的干预实现。而是通过自然环境、人体生物规律&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;（生物时钟、空气质量、良好的生活习惯）&lt;/span&gt;&lt;span&gt;赋予室内更适应旅居人在听觉、视觉、光照度、含氧量、温湿度各方面尽可能达到人体舒适度、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;良好的生活习惯，完成人体与自然更好结合的生活体验感。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span&gt;它是通过电子设备，&lt;/span&gt;&lt;span&gt;对人平时无法感知的东西进行临界值探测实现环境参数的控制，&lt;/span&gt;&lt;span&gt;它不仅能够让人感受到轻松、舒适、愉快，更体现来自无法判断的身体的需求。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;和数据存储。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="860" y="45" width="880" height="120" as="geometry" />
+        <mxCell id="g5QRJJChowbCZhrj0L3K-1" value="&lt;b&gt;景区智能民宿的可行性：&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;景区智能名宿，是指把民宿室内环境、设备的控制通过非传统行为的干预实现。而是交由：自然环境、人体的生物规律所需&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;（视听、生物时钟、空气质量）还有“良好的生活习惯”&lt;/span&gt;&lt;span&gt;赋予室内环境更适应旅居人在视听；含氧量、温湿度各方面的舒适度享受。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;这一切都是借助于电子设备，&lt;/span&gt;&lt;span&gt;对人体以往无法感知的自然参数（光照度、空气质量、温湿度、助眠场景）的临界值探测后，配合自动化开关实现&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;环境参数的调节。&lt;/span&gt;&lt;span&gt;它不仅能够让人感受到轻松、舒适、愉快，更体现来自无法判断的身体的需求。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;和数据存储。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="850" y="30" width="800" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
