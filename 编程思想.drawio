@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T04:35:35.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="q8fNYhOb64IsbW4L0mfy" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T05:29:53.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="wR2IkDIJbtzWaZ32kTDc" version="15.5.0" type="github">
   <diagram id="1dRo5ZtdfTXRHGiEh3tT" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,8 +89,8 @@
         <mxCell id="vT0mGc1bMiAUVa-cbs3g-18" value="女" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="345" width="40" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="vT0mGc1bMiAUVa-cbs3g-26" value="计算机世界里面，人这一实体，由哪些数据构成的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="410" width="280" height="20" as="geometry" />
+        <mxCell id="vT0mGc1bMiAUVa-cbs3g-26" value="计算机世界里面，“人”这一实体的数据结构&lt;br&gt;在编程过程中，我们一旦获取到这些数据，就能构造人这个实体的多种行为" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="395" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
