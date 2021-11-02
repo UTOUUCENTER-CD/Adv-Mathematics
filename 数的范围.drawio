@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T04:27:15.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.9" etag="uPDjazSq3FIxMssMp3zj" type="github"><diagram id="6fCMi_AuG_LNMehQtOvi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-02T06:42:01.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="0oveVEI2tAtjGlD9q8M-" version="15.5.9" type="github">
+  <diagram id="6fCMi_AuG_LNMehQtOvi" name="第 1 页">
+    <mxGraphModel dx="1822" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-270" y="-340" width="324" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-26" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="64" y="40" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-23" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="96" y="40" width="223" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-20" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="134" y="40" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-13" value="&lt;span&gt;正整数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="209" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-14" value="&lt;span&gt;零&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="209" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-15" value="&lt;span&gt;负整数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="209" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-16" value="整&lt;br&gt;数" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="164" y="40" width="45" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-17" value="&lt;span&gt;有限位数小数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="209" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-18" value="&lt;span&gt;无限循环小数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="209" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-19" value="分&lt;br&gt;数" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="164" y="130" width="45" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-21" value="无限不循环小数" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="134" y="190" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-22" value="&lt;span&gt;有&lt;/span&gt;&lt;br&gt;&lt;span&gt;理&lt;/span&gt;&lt;br&gt;&lt;span&gt;数&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="130" y="84" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-24" value="实&lt;br&gt;数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="100" y="125" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-25" value="虚数" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="95" y="220" width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-27" value="复&lt;br&gt;&lt;br&gt;&lt;br&gt;数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry x="64" y="105" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gwxJEuXygE5C3Cj5OGOI-28" value="数的结构体：" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;base=20;position2=0.5;size=10;position=0.11;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="gwxJEuXygE5C3Cj5OGOI-29">
+          <mxGeometry width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
