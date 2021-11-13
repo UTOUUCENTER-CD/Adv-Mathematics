@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T04:19:03.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="DZ20tekvqUWzY6qRv8HE" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T04:25:43.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QXGZLfcGtv2WtAuoIwVR" version="15.7.3" type="github">
   <diagram id="D1NhMnVbxvzPtjnGz45q" name="第 1 页">
     <mxGraphModel dx="480" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="arEP-9Fb-EKLccg9OAlE-5" value="$$\alpha$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="220" width="70" height="20" as="geometry" />
+          <mxGeometry x="267" y="220" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="arEP-9Fb-EKLccg9OAlE-7" value="$$P(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="144" width="70" height="20" as="geometry" />
@@ -58,10 +58,10 @@
         <mxCell id="arEP-9Fb-EKLccg9OAlE-14" value="`P_1`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="80" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="arEP-9Fb-EKLccg9OAlE-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=none;strokeWidth=2;" edge="1" parent="1" source="arEP-9Fb-EKLccg9OAlE-16">
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-15" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="400" as="sourcePoint" />
-            <mxPoint x="410" y="150" as="targetPoint" />
+            <mxPoint x="353" y="118" as="sourcePoint" />
+            <mxPoint x="413" y="152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="arEP-9Fb-EKLccg9OAlE-16" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;rotation=25;" vertex="1" parent="1">
@@ -88,7 +88,7 @@
         <mxCell id="arEP-9Fb-EKLccg9OAlE-23" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="153" as="sourcePoint" />
-            <mxPoint x="420" y="153" as="targetPoint" />
+            <mxPoint x="416" y="153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="arEP-9Fb-EKLccg9OAlE-24" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="arEP-9Fb-EKLccg9OAlE-28" value="`O`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="258" y="237" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-30" value="`\beta`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="202" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
