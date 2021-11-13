@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T04:25:43.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QXGZLfcGtv2WtAuoIwVR" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T04:32:13.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="48coJYDQIqyMG_fBHD4g" version="15.7.3" type="github">
   <diagram id="D1NhMnVbxvzPtjnGz45q" name="第 1 页">
     <mxGraphModel dx="480" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="arEP-9Fb-EKLccg9OAlE-30" value="`\beta`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="202" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-32" value="`\angleAOB = \alpha ,\angleAOP=\beta, |OP|=1,`(单位圆)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="188" y="430" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
