@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T03:44:05.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ol0kKekALD3uWe2_hyAW" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T04:19:03.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="DZ20tekvqUWzY6qRv8HE" version="15.7.3" type="github">
   <diagram id="D1NhMnVbxvzPtjnGz45q" name="第 1 页">
     <mxGraphModel dx="480" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="arEP-9Fb-EKLccg9OAlE-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="arEP-9Fb-EKLccg9OAlE-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -13,38 +13,98 @@
             <mxPoint x="550" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="arEP-9Fb-EKLccg9OAlE-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-3" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=rgba(0, 0, 0, 1);align=center;strokeColor=rgba(0, 0, 0, 1);" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="420" as="sourcePoint" />
             <mxPoint x="280" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="arEP-9Fb-EKLccg9OAlE-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-4" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="240" as="sourcePoint" />
-            <mxPoint x="460" y="120" as="targetPoint" />
+            <mxPoint x="450" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="arEP-9Fb-EKLccg9OAlE-5" value="$$\alpha$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="220" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="arEP-9Fb-EKLccg9OAlE-7" value="$$P(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="150" width="70" height="20" as="geometry" />
+          <mxGeometry x="410" y="144" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="arEP-9Fb-EKLccg9OAlE-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.057;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="arEP-9Fb-EKLccg9OAlE-7">
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-8" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414" y="240" as="sourcePoint" />
-            <mxPoint x="520" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="arEP-9Fb-EKLccg9OAlE-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="150" as="sourcePoint" />
-            <mxPoint x="410" y="150" as="targetPoint" />
+            <mxPoint x="414" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="arEP-9Fb-EKLccg9OAlE-10" value="一、基本定义：&lt;br&gt;设角 \(\alpha\) 的终边与单位圆交于点`P(x,y)`,则有：&lt;br&gt;$$\sin\alpha = y , \cos\alpha = x \\&lt;br&gt;\tan\alpha = \frac{y}{x} , \cot\alpha = \frac{x}{y} \\&lt;br&gt;\sec\alpha=\frac{1}{x} , \csc\alpha=\frac{1}{y}$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="60" width="290" height="80" as="geometry" />
+          <mxGeometry x="450" y="40" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-11" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="arEP-9Fb-EKLccg9OAlE-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="120" as="sourcePoint" />
+            <mxPoint x="360" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="sourcePoint" />
+            <mxPoint x="350" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-13" value="`A`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-14" value="`P_1`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=none;strokeWidth=2;" edge="1" parent="1" source="arEP-9Fb-EKLccg9OAlE-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="400" as="sourcePoint" />
+            <mxPoint x="410" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-16" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="353" y="111" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1.067;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.069;entryY=1.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="arEP-9Fb-EKLccg9OAlE-13" target="arEP-9Fb-EKLccg9OAlE-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352.01" y="118" as="sourcePoint" />
+            <mxPoint x="410.01" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-18" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="415" y="230" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="arEP-9Fb-EKLccg9OAlE-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="240" as="sourcePoint" />
+            <mxPoint x="480" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-21" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="352" y="230" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-23" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="153" as="sourcePoint" />
+            <mxPoint x="420" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-24" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="352" y="154" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-25" value="`B`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="333" y="239" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-26" value="`M`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399" y="240" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-27" value="`C`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="326" y="147" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="arEP-9Fb-EKLccg9OAlE-28" value="`O`" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="258" y="237" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
