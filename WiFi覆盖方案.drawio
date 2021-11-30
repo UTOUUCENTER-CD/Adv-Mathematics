@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T08:37:36.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ePfEarF-leoy1EFBHLpQ" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T08:39:14.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="uQqBKYik73ASsh1EHiHw" version="15.8.6" type="github">
   <diagram id="jTIh-jH81dk-xF3Pbu3F" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -580,8 +580,8 @@
         <mxCell id="Obx6rGTzSdYs5Bn8vCuY-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;家庭网络WiFi全屋覆盖解决方案&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="446" y="880" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Obx6rGTzSdYs5Bn8vCuY-43" value="&lt;b&gt;家庭网络覆盖通常面临如下情况：&lt;/b&gt;&lt;br&gt;①、由于多墙体造成WiFi信号的衰减。&lt;br&gt;②、家庭成员（网络设备及智能终端设备）众多的情况下，造成的链接数量过载。&lt;br&gt;③、数据流过于臃肿，造成数据吞吐量过载。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;以上主要的三点现实就是WiFi6之前面临的实际难点。&lt;br&gt;所以在家庭网络" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="75" y="905" width="450" height="90" as="geometry" />
+        <mxCell id="Obx6rGTzSdYs5Bn8vCuY-43" value="&lt;b&gt;家庭网络覆盖通常面临如下情况：&lt;/b&gt;&lt;br&gt;①、由于多墙体造成WiFi信号的衰减。&lt;br&gt;②、家庭成员（网络设备及智能终端设备）众多的情况下，造成的链接数量过载。&lt;br&gt;③、数据流过于臃肿，造成数据吞吐量过载。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;以上主要的三点现实就是WiFi6之前面临的实际难点。&lt;br&gt;所以在家庭网络中，当前最为优秀的WiFi覆盖方案就是WiFi6。而非传统简单的无线路由器的桥接方案。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="75" y="905" width="560" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pSIwbUOLonBgztyT45ED-3" value="&lt;b&gt;AP1&lt;/b&gt;" style="shape=mxgraph.cisco.wireless.wireless_transport;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="198.99999999999994" width="47" height="24" as="geometry" />
